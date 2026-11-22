@@ -1,3 +1,7 @@
+[![Build and Test](https://github.com/tomlm/Iciclecreek.Lucene.Net.Temporal/actions/workflows/BuildAndRunTests.yml/badge.svg)](https://github.com/tomlm/Iciclecreek.Lucene.Net.Temporal/actions/workflows/BuildAndRunTests.yml)[![NuGet](https://img.shields.io/nuget/v/Iciclecreek.Lucene.Net.Temporal.svg)](https://www.nuget.org/packages/Iciclecreek.Lucene.Net.Temporal)
+
+![Logo](https://raw.githubusercontent.com/tomlm/Iciclecreek.Lucene.Net.Temporal/refs/heads/main/icon.png)
+
 # Iciclecreek.Lucene.Net.Temporal
 
 TIMEX-based temporal indexing and filtering for **Lucene.NET 4.8**.
